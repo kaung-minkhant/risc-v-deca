@@ -1,0 +1,36 @@
+
+  BRANCH_LOGIC_PROC : process(func3, branch_condition, clk, opcode, opcode_mem)
+
+  begin
+
+    if (unsigned(opcode) = "1100011" and unsigned(opcode_mem) = "0000011") then
+      if (branch_condition = '1') then
+        case func3 is
+          when "000" =>
+            branch <= equal;
+          when "001" =>
+            branch <= not equal;
+          when others =>
+            branch <= '0';
+        end case;
+      end if;
+    elsif (clk'event and clk = '0') then
+      if (branch_condition = '1') then
+        case func3 is
+          when "000" =>
+            branch <= equal;
+          when "001" =>
+            branch <= not equal;
+          when others =>
+            branch <= '0';
+        end case;
+      end if;
+    else
+      branch <= '0';
+    end if;
+  end process;
+
+
+  branch <= equal when func3 = "000" and branch_condition = '1' else
+           not equal when func3 = "001" and branch_condition = '1' else
+          '0';

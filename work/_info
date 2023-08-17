@@ -1,0 +1,1560 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/polar/Documents/liverpool_project/cpu_deca
+Eadder
+Z1 w1689741191
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/adder.vhd
+Z6 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/adder.vhd
+l0
+L5
+VKf>eFz=a<GBoo3YngegD93
+!s100 zV4HI2j7glRZJ1W]7Febo0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1692118524
+!i10b 1
+Z9 !s108 1692118524.000000
+Z10 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/adder.vhd|
+Z11 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/adder.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 Kf>eFz=a<GBoo3YngegD93
+l32
+L19
+VZm8RoXeOY>HoUl44FI>L20
+!s100 `Klc`fD5bVh5@O2CV?Hkg3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eaddress_decoder
+Z14 w1689046296
+Z15 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R2
+R3
+R4
+R0
+Z16 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/address_decoder.vhd
+Z17 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/address_decoder.vhd
+l0
+L6
+VmEgG@GBTlCkC<84f]hU<E3
+!s100 O1<[k]bLV[2zLQWbRzJ<a2
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/address_decoder.vhd|
+Z19 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/address_decoder.vhd|
+!i113 1
+R12
+R13
+Artl
+R15
+R2
+R3
+R4
+DEx4 work 15 address_decoder 0 22 mEgG@GBTlCkC<84f]hU<E3
+l18
+L16
+VD2hla[Q6n4WC_EkC8`YGU1
+!s100 k<1Z=419_E^?Z^mMileN[0
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Ealu
+Z20 w1689156175
+Z21 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z22 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+R2
+R3
+R4
+R0
+Z23 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/alu.vhd
+Z24 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/alu.vhd
+l0
+L6
+V^8EefM6aaLCmefWzbNZG?3
+!s100 RB2F1PolfZ8_86W<eCVod1
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/alu.vhd|
+Z26 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/alu.vhd|
+!i113 1
+R12
+R13
+Aarch
+R21
+R22
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 ^8EefM6aaLCmefWzbNZG?3
+l55
+L26
+VS>2BgNISG?5MG?APMd@lW2
+!s100 27z0fJCo;8@e0UO<TOUY@2
+R7
+32
+Z27 !s110 1692118525
+!i10b 1
+R9
+R25
+R26
+!i113 1
+R12
+R13
+Ealu_controller
+Z28 w1689155643
+R2
+R3
+R4
+R0
+Z29 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/alu_controller.vhd
+Z30 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/alu_controller.vhd
+l0
+L5
+VH=@I5J80zJmSSh8>j<5I_2
+!s100 58]LgkPAjlh:LBZXDOzec2
+R7
+32
+R27
+!i10b 1
+Z31 !s108 1692118525.000000
+Z32 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/alu_controller.vhd|
+Z33 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/alu_controller.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 14 alu_controller 0 22 H=@I5J80zJmSSh8>j<5I_2
+l17
+L15
+V>O>J9Q4Yn2cR9n=B3O?iQ2
+!s100 CBMoW;7C]2i=4MJ=H9ZA>1
+R7
+32
+R27
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R12
+R13
+Ebranch_calculator
+Z34 w1689582034
+R2
+R3
+R4
+R0
+Z35 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_calculator.vhd
+Z36 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_calculator.vhd
+l0
+L5
+VYCWfJd0U=G:4m=[NTNg;=1
+!s100 _7lTz:8@SWSG7Ka?n2^]O3
+R7
+32
+R27
+!i10b 1
+R31
+Z37 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_calculator.vhd|
+Z38 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_calculator.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 17 branch_calculator 0 22 YCWfJd0U=G:4m=[NTNg;=1
+l34
+L18
+VZ1eM_gWkd;il>_[o<3WA^2
+!s100 iU:Q1=g19K9[:V1;3?O_f1
+R7
+32
+R27
+!i10b 1
+R31
+R37
+R38
+!i113 1
+R12
+R13
+Ebranch_controller
+Z39 w1692073362
+R2
+R3
+R4
+R0
+Z40 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_controller.vhd
+Z41 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_controller.vhd
+l0
+L5
+VeIHbhc?kihDFR_B09]M3Y3
+!s100 dT2`A0FgMM1zX2BIJlAG62
+R7
+32
+R27
+!i10b 1
+R31
+Z42 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_controller.vhd|
+Z43 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/branch_controller.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 17 branch_controller 0 22 eIHbhc?kihDFR_B09]M3Y3
+l23
+L19
+VUg_j5OHM21?7CkcWmjhUJ3
+!s100 QBPeNH>JF7hz4ZG@8`1z<0
+R7
+32
+R27
+!i10b 1
+R31
+R42
+R43
+!i113 1
+R12
+R13
+Eclk_divider
+Z44 w1691942677
+R2
+R3
+R4
+R0
+Z45 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/clk_divider.vhd
+Z46 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/clk_divider.vhd
+l0
+L5
+Vm6a]gb_bWEjNWnBJJAAC73
+!s100 YGeicVje0n0oz0^PoU`DR1
+R7
+32
+R27
+!i10b 1
+R31
+Z47 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/clk_divider.vhd|
+Z48 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/clk_divider.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 11 clk_divider 0 22 m6a]gb_bWEjNWnBJJAAC73
+l21
+L17
+V;Rlj=PKYQ?zAY1bkdEd0T1
+!s100 ai;UKHUNRW?DgNBN1OWf>1
+R7
+32
+R27
+!i10b 1
+R31
+R47
+R48
+!i113 1
+R12
+R13
+Econtrol_unit
+Z49 w1689584209
+R2
+R3
+R4
+R0
+Z50 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/control_unit.vhd
+Z51 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/control_unit.vhd
+l0
+L5
+VNYI966;TTH0bAMV<@`l>Y0
+!s100 mllEfCVbnfG7??U3@IlmG3
+R7
+32
+R27
+!i10b 1
+R31
+Z52 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/control_unit.vhd|
+Z53 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/control_unit.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 12 control_unit 0 22 NYI966;TTH0bAMV<@`l>Y0
+l18
+L16
+VT0khA[7O;0g`1@R_XV`Ij1
+!s100 @4Eaf;Oj7WA`P2j0ahB^b1
+R7
+32
+R27
+!i10b 1
+R31
+R52
+R53
+!i113 1
+R12
+R13
+Ecpu
+Z54 w1689240548
+R2
+R3
+R4
+R0
+Z55 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu.vhd
+Z56 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu.vhd
+l0
+L5
+V;]QElUKdjKz[_f>[[hEA<2
+!s100 dGFEYSh?aQ9@IdNhJ6GX=2
+R7
+32
+Z57 !s110 1692008197
+!i10b 1
+Z58 !s108 1692008197.000000
+Z59 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu.vhd|
+Z60 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+Z61 DEx4 work 3 cpu 0 22 ;]QElUKdjKz[_f>[[hEA<2
+l185
+L15
+Vg^]3N[f4TlH30<VJEzmkf1
+!s100 lh1LVh_`5YMj2DRYP16j_3
+R7
+32
+R57
+!i10b 1
+R58
+R59
+R60
+!i113 1
+R12
+R13
+Ecpu_deca
+Z62 w1692116621
+R2
+R3
+R4
+R0
+Z63 8/home/polar/Documents/liverpool_project/cpu_deca/cpu_deca.vhd
+Z64 F/home/polar/Documents/liverpool_project/cpu_deca/cpu_deca.vhd
+l0
+L5
+VJ5QKNXkI2PR4JQ=TBOGCQ3
+!s100 T6`ijkOV]iR9VHhnP`Z=a1
+R7
+32
+Z65 !s110 1692118771
+!i10b 1
+Z66 !s108 1692118771.000000
+Z67 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu_deca.vhd|
+Z68 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu_deca.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+Z69 DEx4 work 8 cpu_deca 0 22 J5QKNXkI2PR4JQ=TBOGCQ3
+l123
+L15
+Z70 VO7;kZgKcKM]NDgo58_eaI3
+Z71 !s100 laI3U5aHB<:NEPWDgUg[e2
+R7
+32
+R65
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R12
+R13
+Ecpu_pipelined
+Z72 w1692080782
+R2
+R3
+R4
+R0
+Z73 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined.vhd
+Z74 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined.vhd
+l0
+L5
+VZ6G3?2ZR5hVX3Agj2GWGP3
+!s100 BfUUeCYXQ_j?Y;f6dgNV61
+R7
+32
+Z75 !s110 1692118659
+!i10b 1
+Z76 !s108 1692118659.000000
+Z77 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined.vhd|
+Z78 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 13 cpu_pipelined 0 22 Z6G3?2ZR5hVX3Agj2GWGP3
+l397
+L44
+VTOQI?=M=WCLN25hYo4WVE3
+!s100 Fz[F1__@hHh^LDfA@9__n1
+R7
+32
+R75
+!i10b 1
+R76
+R77
+R78
+!i113 1
+R12
+R13
+Ecpu_pipelined_tb
+w1691313348
+R2
+R3
+R4
+R0
+8/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined_tb.vhd
+F/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined_tb.vhd
+l0
+L5
+VazYd@8RC=An;K8EF0acD]1
+!s100 2LVSTBO6bSX43:4_FFZ4C2
+R7
+32
+R57
+!i10b 1
+R58
+!s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined_tb.vhd|
+!s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_pipelined_tb.vhd|
+!i113 1
+R12
+R13
+Ecpu_tb
+Z79 w1689241504
+R2
+R3
+R4
+R0
+Z80 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_tb.vhd
+Z81 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_tb.vhd
+l0
+L5
+VF;3O?lLiVVkK:@=RYNASf0
+!s100 ^RDZRzN_cme?[;=@6]@^S0
+R7
+32
+R57
+!i10b 1
+R58
+Z82 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_tb.vhd|
+Z83 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/cpu_tb.vhd|
+!i113 1
+R12
+R13
+Asim
+R61
+R2
+R3
+R4
+DEx4 work 6 cpu_tb 0 22 F;3O?lLiVVkK:@=RYNASf0
+l27
+L8
+VWQ[4;P:<9j=z5NNRmA2>H2
+!s100 eLQ]V5cKGHUDEHNAADRSl3
+R7
+32
+R57
+!i10b 1
+R58
+R82
+R83
+!i113 1
+R12
+R13
+Edata_memory
+Z84 w1692109746
+R2
+R3
+R4
+R0
+Z85 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/data_memory.vhd
+Z86 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/data_memory.vhd
+l0
+L5
+V<NSe?P@nS3EhjAM`SbJF[1
+!s100 eWjLjG`0Ed@Q_ZVnYaa_^0
+R7
+32
+R27
+!i10b 1
+R31
+Z87 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/data_memory.vhd|
+Z88 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/data_memory.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 11 data_memory 0 22 <NSe?P@nS3EhjAM`SbJF[1
+l81
+L51
+V;K0D74_k[GLMRQd69XQbY3
+!s100 78ih<ZDOiXR9;WB9B:VJb3
+R7
+32
+R27
+!i10b 1
+R31
+R87
+R88
+!i113 1
+R12
+R13
+Eex_mem_pipe_reg
+Z89 w1689576331
+R2
+R3
+R4
+R0
+Z90 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/ex_mem_pipe_reg.vhd
+Z91 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/ex_mem_pipe_reg.vhd
+l0
+L5
+V?GCab[cO0;L9dA1NO<2R72
+!s100 dAdfhjO6cEMECmRP@X15R0
+R7
+32
+R27
+!i10b 1
+R31
+Z92 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/ex_mem_pipe_reg.vhd|
+Z93 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/ex_mem_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 15 ex_mem_pipe_reg 0 22 ?GCab[cO0;L9dA1NO<2R72
+l43
+L34
+VHd1G6FDV>JG6BQQKX<zNQ1
+!s100 D6ePORbH^i[dckOZj`9N51
+R7
+32
+R27
+!i10b 1
+R31
+R92
+R93
+!i113 1
+R12
+R13
+Eforwarding_unit
+Z94 w1692004830
+R2
+R3
+R4
+R0
+Z95 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit.vhd
+Z96 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit.vhd
+l0
+L5
+Vaa2?n`eC:RgNb4FO9e5;M2
+!s100 Th=CJ;:ko`bT<G;05C5]J3
+R7
+32
+R27
+!i10b 1
+R31
+Z97 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit.vhd|
+Z98 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 15 forwarding_unit 0 22 aa2?n`eC:RgNb4FO9e5;M2
+l15
+L14
+VhL:W@0HOb[e02^VN^_=<Y2
+!s100 R]c9CmNa1WzJTV;bQ1B^m3
+R7
+32
+R27
+!i10b 1
+R31
+R97
+R98
+!i113 1
+R12
+R13
+Eforwarding_unit_branch
+Z99 w1691977304
+R2
+R3
+R4
+R0
+Z100 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit_branch.vhd
+Z101 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit_branch.vhd
+l0
+L5
+VM9oJUU_@n>7Ec5SS2^FT92
+!s100 7j9A0giXbBF`LC;bn5SG?1
+R7
+32
+R27
+!i10b 1
+R31
+Z102 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit_branch.vhd|
+Z103 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/forwarding_unit_branch.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 22 forwarding_unit_branch 0 22 M9oJUU_@n>7Ec5SS2^FT92
+l16
+L15
+VGU0eQI4l;O1@3Ngd3a:`Q2
+!s100 OHWaSWYTen]2U@0U;L;;z2
+R7
+32
+R27
+!i10b 1
+R31
+R102
+R103
+!i113 1
+R12
+R13
+Efull_adder
+Z104 w1688107372
+R2
+R3
+R4
+R0
+Z105 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/full_adder.vhd
+Z106 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/full_adder.vhd
+l0
+L5
+VT72HMo>WmV:eO2?ZdYLJG3
+!s100 6n3=^a>[9G?hbUE?cWjSG3
+R7
+32
+R27
+!i10b 1
+R31
+Z107 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/full_adder.vhd|
+Z108 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/full_adder.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 10 full_adder 0 22 T72HMo>WmV:eO2?ZdYLJG3
+l25
+L15
+VLe_?<X@h[1iP:A3F4gW>03
+!s100 0dz2nZ74G@FCdz7OaGe233
+R7
+32
+R27
+!i10b 1
+R31
+R107
+R108
+!i113 1
+R12
+R13
+Ehalf_adder
+R104
+R2
+R3
+R4
+R0
+Z109 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/half_adder.vhd
+Z110 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/half_adder.vhd
+l0
+L5
+VNaXA@m2[J5o2_WfbgRa<D0
+!s100 f=QldB?kKBdX<g]bW<T`K3
+R7
+32
+R27
+!i10b 1
+R31
+Z111 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/half_adder.vhd|
+Z112 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/half_adder.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 10 half_adder 0 22 NaXA@m2[J5o2_WfbgRa<D0
+l16
+L14
+VO`0Ne1GPM]NlgoRZ5I>1G3
+!s100 JX]LjVK0i@0lG@SENF^h?2
+R7
+32
+R27
+!i10b 1
+R31
+R111
+R112
+!i113 1
+R12
+R13
+Ei2c_master
+R104
+Z113 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z114 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R3
+R4
+R0
+Z115 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master.vhd
+Z116 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master.vhd
+l0
+L5
+VHoLLWaI79[?`kQj`[i4_g2
+!s100 G^;l]fkk]h73j3B[FBU2J2
+R7
+32
+Z117 !s110 1692118460
+!i10b 1
+Z118 !s108 1692118460.000000
+Z119 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master.vhd|
+Z120 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master.vhd|
+!i113 1
+R12
+R13
+Alogic
+R113
+R114
+R3
+R4
+DEx4 work 10 i2c_master 0 22 HoLLWaI79[?`kQj`[i4_g2
+l38
+L24
+V<VPTSZKY0LK]>>OHC5L?_0
+!s100 n_JdE2Dc;zX>;3N[cG9N:1
+R7
+32
+R117
+!i10b 1
+R118
+R119
+R120
+!i113 1
+R12
+R13
+Ei2c_master_container
+Z121 w1691944469
+R2
+R3
+R4
+R0
+Z122 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master_container.vhd
+Z123 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master_container.vhd
+l0
+L5
+VzBVzJ7a_VR]i8Qibd0DOo3
+!s100 D<dE::[NH2cBTNk[WfJMO1
+R7
+32
+R117
+!i10b 1
+R118
+Z124 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master_container.vhd|
+Z125 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/i2c/i2c_master_container.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 20 i2c_master_container 0 22 zBVzJ7a_VR]i8Qibd0DOo3
+l60
+L36
+Vo9HWn3QBVN>LWSEz<L3@D1
+!s100 <QTTe@5CdzgHel?9YlRXb2
+R7
+32
+R117
+!i10b 1
+R118
+R124
+R125
+!i113 1
+R12
+R13
+Eid_ex_pipe_reg
+Z126 w1689741538
+R2
+R3
+R4
+R0
+Z127 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/id_ex_pipe_reg.vhd
+Z128 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/id_ex_pipe_reg.vhd
+l0
+L5
+VT^Ok=jYdZl0Bj`NlHa:ln1
+!s100 >d@T8EY=VA^jY?`>AGW2n3
+R7
+32
+R27
+!i10b 1
+R31
+Z129 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/id_ex_pipe_reg.vhd|
+Z130 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/id_ex_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 14 id_ex_pipe_reg 0 22 T^Ok=jYdZl0Bj`NlHa:ln1
+l50
+L39
+VZX7W^o@CR[Z4T>@ifO_JX0
+!s100 Idb4o@i9j<fZGO?dXjF170
+R7
+32
+R27
+!i10b 1
+R31
+R129
+R130
+!i113 1
+R12
+R13
+Eif_id_pipe_reg
+Z131 w1691976905
+R2
+R3
+R4
+R0
+Z132 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/if_id_pipe_reg.vhd
+Z133 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/if_id_pipe_reg.vhd
+l0
+L5
+VmUO39R5C4DN02D=:]`L2Q1
+!s100 ;0T0YJoX_3GddBHT2eZJz3
+R7
+32
+R27
+!i10b 1
+R31
+Z134 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/if_id_pipe_reg.vhd|
+Z135 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/if_id_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 14 if_id_pipe_reg 0 22 mUO39R5C4DN02D=:]`L2Q1
+l26
+L24
+VMfJJ8zE`>_=m@b@?]M6:U2
+!s100 Ei>>IP[Q_9KX:4N65=Sad2
+R7
+32
+R27
+!i10b 1
+R31
+R134
+R135
+!i113 1
+R12
+R13
+Eimmediate_generator
+Z136 w1689240179
+R2
+R3
+R4
+R0
+Z137 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/immediate_generator.vhd
+Z138 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/immediate_generator.vhd
+l0
+L5
+VKm<`TIYRG;56Q8GD:7AQ33
+!s100 c9WMKdTAZk1[S2V0^Nm2W2
+R7
+32
+R27
+!i10b 1
+R31
+Z139 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/immediate_generator.vhd|
+Z140 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/immediate_generator.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 19 immediate_generator 0 22 Km<`TIYRG;56Q8GD:7AQ33
+l21
+L15
+ViFiF^jbo>0YC7B1d[AcJ=3
+!s100 ]VTZ20Zj9dED^]V8?DH720
+R7
+32
+R27
+!i10b 1
+R31
+R139
+R140
+!i113 1
+R12
+R13
+Einstruction_memory
+Z141 w1692114602
+R15
+R2
+R3
+R4
+R0
+Z142 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/instruction_memory.vhd
+Z143 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/instruction_memory.vhd
+l0
+L6
+VZogJCfYk;:`EnRl:E<ZdQ1
+!s100 lO2cb7A1k[?;O[<mmeK^M2
+R7
+32
+R27
+!i10b 1
+R31
+Z144 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/instruction_memory.vhd|
+Z145 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/instruction_memory.vhd|
+!i113 1
+R12
+R13
+Artl
+R15
+R2
+R3
+R4
+DEx4 work 18 instruction_memory 0 22 ZogJCfYk;:`EnRl:E<ZdQ1
+l41
+L23
+Vh7Wf^U?JKW:=K9=@fDWzS1
+!s100 9UO5o>ejMX<e4nAEX63LV1
+R7
+32
+R27
+!i10b 1
+R31
+R144
+R145
+!i113 1
+R12
+R13
+Eio
+Z146 w1691826741
+R2
+R3
+R4
+R0
+Z147 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/io.vhd
+Z148 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/io.vhd
+l0
+L5
+Vi2;2>JaIzOC1YzgVDaCSW1
+!s100 EP>B_P4BBG<iLHFncadhU1
+R7
+32
+Z149 !s110 1692118483
+!i10b 1
+Z150 !s108 1692118483.000000
+Z151 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/io.vhd|
+Z152 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/io.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 2 io 0 22 i2;2>JaIzOC1YzgVDaCSW1
+l161
+L49
+VlJHgLgW^_`2lj[gej^:>F2
+!s100 ]8cEeKCPX5^:fmMAOc08H3
+R7
+32
+R149
+!i10b 1
+R150
+R151
+R152
+!i113 1
+R12
+R13
+Eiopin
+Z153 w1692115435
+R2
+R3
+R4
+R0
+Z154 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/iopin.vhd
+Z155 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/iopin.vhd
+l0
+L5
+VnIIkmSn:mfcH7zYb51gDK0
+!s100 __OH?>flRfm^LMJccR>>H0
+R7
+32
+R149
+!i10b 1
+R150
+Z156 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/iopin.vhd|
+Z157 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/io/iopin.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 5 iopin 0 22 nIIkmSn:mfcH7zYb51gDK0
+l23
+L21
+VX8znoo3zSJZVl2mVP5Mj]3
+!s100 ;3[ncVm=PEWlR@NaDUeVz3
+R7
+32
+R149
+!i10b 1
+R150
+R156
+R157
+!i113 1
+R12
+R13
+Emem_wb_pipe_reg
+Z158 w1689577080
+R2
+R3
+R4
+R0
+Z159 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/mem_wb_pipe_reg.vhd
+Z160 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/mem_wb_pipe_reg.vhd
+l0
+L5
+VaH><EJ`=]JYi;cY6B]9M02
+!s100 ]SUFl8XA^bWo6;>7hgnl03
+R7
+32
+R27
+!i10b 1
+R31
+Z161 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/mem_wb_pipe_reg.vhd|
+Z162 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/mem_wb_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 15 mem_wb_pipe_reg 0 22 aH><EJ`=]JYi;cY6B]9M02
+l34
+L29
+V_COXf`DPd1f[A9SLE3G>P0
+!s100 RF;5YE6oX<DXTT]P4]<[>3
+R7
+32
+R27
+!i10b 1
+R31
+R161
+R162
+!i113 1
+R12
+R13
+Eone_bit_alu
+R104
+R2
+R3
+R4
+R0
+Z163 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/one_bit_alu.vhd
+Z164 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/one_bit_alu.vhd
+l0
+L5
+VzOizTM;nZf7Eii?SOW2^T3
+!s100 46ezP=S`d>c7dz0KKJio23
+R7
+32
+R27
+!i10b 1
+R31
+Z165 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/one_bit_alu.vhd|
+Z166 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/one_bit_alu.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 11 one_bit_alu 0 22 zOizTM;nZf7Eii?SOW2^T3
+l39
+L26
+VU3hM4XDX^fcVA38_NLlRc1
+!s100 cVhPZhJ;Z2bN@oMA1URoj3
+R7
+32
+R27
+!i10b 1
+R31
+R165
+R166
+!i113 1
+R12
+R13
+Epc
+Z167 w1692037831
+R2
+R3
+R4
+R0
+Z168 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd
+Z169 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd
+l0
+L5
+Vh4IE7YmKTKVR;dJC]cO;l2
+!s100 Xen:AF[dlc2;HX_foZQ_90
+R7
+32
+R27
+!i10b 1
+R31
+Z170 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd|
+Z171 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 2 pc 0 22 h4IE7YmKTKVR;dJC]cO;l2
+l31
+L24
+V7KFAF38hDZF5c03B4?^VQ2
+!s100 9KNZ?F7Ec2RA0@zgFMzC20
+R7
+32
+R27
+!i10b 1
+R31
+R170
+R171
+!i113 1
+R12
+R13
+Epc_container
+Z172 w1692010935
+R2
+R3
+R4
+R0
+Z173 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd
+Z174 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd
+l0
+L5
+V4@OkPnBIzk?C5bPFKc56D0
+!s100 dMW=UKGOzNL^S0n4gYbU60
+R7
+32
+R27
+!i10b 1
+R31
+Z175 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd|
+Z176 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 12 pc_container 0 22 4@OkPnBIzk?C5bPFKc56D0
+l67
+L31
+VlbJM?E:V9<?aKj:3AVnPe2
+!s100 UiYP>SfaXQLm0;3W@Ckij3
+R7
+32
+R27
+!i10b 1
+R31
+R175
+R176
+!i113 1
+R12
+R13
+Eregister_file
+Z177 w1692081010
+R2
+R3
+R4
+R0
+Z178 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/register_file.vhd
+Z179 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/register_file.vhd
+l0
+L5
+V;_kk@CS6<0?IeeagE[LC^3
+!s100 fZ1KY>ao9JN[26iK3=Rk=3
+R7
+32
+R27
+!i10b 1
+R31
+Z180 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/register_file.vhd|
+Z181 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/register_file.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 13 register_file 0 22 ;_kk@CS6<0?IeeagE[LC^3
+l35
+L32
+Vhd[zB:zcf9HFnEU5BCSH01
+!s100 beLGUjOYElZE4UNGVmU142
+R7
+32
+R27
+!i10b 1
+R31
+R180
+R181
+!i113 1
+R12
+R13
+Espi_master
+Z182 w1691977456
+R2
+R3
+R4
+R0
+Z183 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master.vhd
+Z184 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master.vhd
+l0
+L37
+VN^[AmSnl2N7Z[f_PVMif73
+!s100 0F0<3ebl7z@L;0H5Ne<AR3
+R7
+32
+Z185 !s110 1692118469
+!i10b 1
+Z186 !s108 1692118469.000000
+Z187 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master.vhd|
+Z188 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 10 spi_master 0 22 N^[AmSnl2N7Z[f_PVMif73
+l82
+L65
+V<CTX2Z>Pf]7gglF_95>eJ0
+!s100 LoAK:6I^A_G^kiARcfn8^2
+R7
+32
+R185
+!i10b 1
+R186
+R187
+R188
+!i113 1
+R12
+R13
+Espi_master_container
+Z189 w1691826753
+R2
+R3
+R4
+R0
+Z190 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master_container.vhd
+Z191 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master_container.vhd
+l0
+L5
+VbY_Rk9mY16[[dQGfC]?8;3
+!s100 Kz@@SQ:^AGO@KezE>X?UX1
+R7
+32
+R185
+!i10b 1
+R186
+Z192 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master_container.vhd|
+Z193 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/spi/spi_master_container.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 20 spi_master_container 0 22 bY_Rk9mY16[[dQGfC]?8;3
+l69
+L35
+VjXN;X;;ZG;Ae?;EA2>e302
+!s100 B];UANCkcT[cLU?nGzD2O2
+R7
+32
+R185
+!i10b 1
+R186
+R192
+R193
+!i113 1
+R12
+R13
+Euart
+Z194 w1691816105
+R2
+R3
+R4
+R0
+Z195 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart.vhd
+Z196 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart.vhd
+l0
+L5
+VkaTLgKZE8d9X;6<0QHi790
+!s100 eg>Kb697`G=zdf0`KZdW;3
+R7
+32
+Z197 !s110 1692118476
+!i10b 1
+Z198 !s108 1692118476.000000
+Z199 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart.vhd|
+Z200 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 4 uart 0 22 kaTLgKZE8d9X;6<0QHi790
+l59
+L33
+V=n_Ea>HNFAM3c9WB?S6Ie3
+!s100 ^Y_eC3obQ7^>kKO>nEfnN2
+R7
+32
+R197
+!i10b 1
+R198
+R199
+R200
+!i113 1
+R12
+R13
+Euart_container
+Z201 w1691826767
+R2
+R3
+R4
+R0
+Z202 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_container.vhd
+Z203 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_container.vhd
+l0
+L5
+VZm0mQIfbmIDbjnCBzC<e[2
+!s100 lI]N^mIP:E47C6PWDeWK[0
+R7
+32
+R197
+!i10b 1
+R198
+Z204 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_container.vhd|
+Z205 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_container.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 14 uart_container 0 22 Zm0mQIfbmIDbjnCBzC<e[2
+l65
+L31
+ViO78Bb[IU[5_8ClfS`NSE2
+!s100 :QOdFJ^G>]fMe6bAd=T4f1
+R7
+32
+R197
+!i10b 1
+R198
+R204
+R205
+!i113 1
+R12
+R13
+Euart_rx
+R104
+R2
+R3
+R4
+R0
+Z206 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_rx.vhd
+Z207 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_rx.vhd
+l0
+L5
+V3?fEeH5314lnYiFE2:nen3
+!s100 Ab:ag31DPzGR@WKa3IL9[2
+R7
+32
+R197
+!i10b 1
+R198
+Z208 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_rx.vhd|
+Z209 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_rx.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 7 uart_rx 0 22 3?fEeH5314lnYiFE2:nen3
+l28
+L19
+VCSakOl7I]Jc0igK@lVX9Z3
+!s100 5j4lUZ^[fB[74]5K;CCg53
+R7
+32
+R197
+!i10b 1
+R198
+R208
+R209
+!i113 1
+R12
+R13
+Euart_tx
+R104
+R2
+R3
+R4
+R0
+Z210 8/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_tx.vhd
+Z211 F/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_tx.vhd
+l0
+L5
+VS;[[I;Y4QcJLLS`9KgiYW0
+!s100 @4=6PPkbfPBOBU1[fKZC[3
+R7
+32
+R197
+!i10b 1
+R198
+Z212 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_tx.vhd|
+Z213 !s107 /home/polar/Documents/liverpool_project/cpu_deca/peripherals/uart/uart_tx.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 7 uart_tx 0 22 S;[[I;Y4QcJLLS`9KgiYW0
+l27
+L16
+V8?=0iQFR2_=QdgZVm2ZE61
+!s100 _IDj_keTBGl`jIb=gmBz02
+R7
+32
+R197
+!i10b 1
+R198
+R212
+R213
+!i113 1
+R12
+R13

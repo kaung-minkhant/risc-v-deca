@@ -1,0 +1,305 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -21.115
+TNS   : -15300.206
+
+Type  : Slow 1200mV 85C Model Setup 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : -19.931
+TNS   : -84.479
+
+Type  : Slow 1200mV 85C Model Setup 'clk_divider:clk_divider_u|clk_buf'
+Slack : -17.573
+TNS   : -1608.172
+
+Type  : Slow 1200mV 85C Model Setup 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : -9.613
+TNS   : -126.608
+
+Type  : Slow 1200mV 85C Model Setup 'MAX10_CLK1_50'
+Slack : -4.487
+TNS   : -521.488
+
+Type  : Slow 1200mV 85C Model Setup 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : -2.579
+TNS   : -77.884
+
+Type  : Slow 1200mV 85C Model Setup 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : -1.520
+TNS   : -1.520
+
+Type  : Slow 1200mV 85C Model Hold 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -0.281
+TNS   : -1.199
+
+Type  : Slow 1200mV 85C Model Hold 'clk_divider:clk_divider_u|clk_buf'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MAX10_CLK1_50'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : 0.325
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : 0.658
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : 1.444
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -5.296
+TNS   : -5.296
+
+Type  : Slow 1200mV 85C Model Recovery 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : -4.112
+TNS   : -4.112
+
+Type  : Slow 1200mV 85C Model Removal 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.951
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : 3.049
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -218.072
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_divider:clk_divider_u|clk_buf'
+Slack : -1.222
+TNS   : -545.012
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : -1.222
+TNS   : -58.656
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : -1.222
+TNS   : -10.998
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : 0.053
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -19.167
+TNS   : -13858.123
+
+Type  : Slow 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : -18.162
+TNS   : -76.367
+
+Type  : Slow 1200mV 0C Model Setup 'clk_divider:clk_divider_u|clk_buf'
+Slack : -15.877
+TNS   : -1431.959
+
+Type  : Slow 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : -8.786
+TNS   : -115.318
+
+Type  : Slow 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -4.031
+TNS   : -463.219
+
+Type  : Slow 1200mV 0C Model Setup 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : -2.240
+TNS   : -67.417
+
+Type  : Slow 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : -1.354
+TNS   : -1.354
+
+Type  : Slow 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -0.129
+TNS   : -0.337
+
+Type  : Slow 1200mV 0C Model Hold 'clk_divider:clk_divider_u|clk_buf'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : 0.592
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : 1.376
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -4.842
+TNS   : -4.842
+
+Type  : Slow 1200mV 0C Model Recovery 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : -3.837
+TNS   : -3.837
+
+Type  : Slow 1200mV 0C Model Removal 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.991
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : 2.887
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -218.072
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_divider:clk_divider_u|clk_buf'
+Slack : -1.222
+TNS   : -545.012
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : -1.222
+TNS   : -58.656
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : -1.222
+TNS   : -10.998
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : 0.209
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -9.704
+TNS   : -5765.816
+
+Type  : Fast 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : -9.295
+TNS   : -38.266
+
+Type  : Fast 1200mV 0C Model Setup 'clk_divider:clk_divider_u|clk_buf'
+Slack : -8.056
+TNS   : -618.585
+
+Type  : Fast 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : -4.460
+TNS   : -56.140
+
+Type  : Fast 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -1.683
+TNS   : -158.448
+
+Type  : Fast 1200mV 0C Model Setup 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : -1.015
+TNS   : -18.953
+
+Type  : Fast 1200mV 0C Model Setup 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : -0.470
+TNS   : -0.470
+
+Type  : Fast 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : -0.049
+TNS   : -0.049
+
+Type  : Fast 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -0.027
+TNS   : -0.040
+
+Type  : Fast 1200mV 0C Model Hold 'clk_divider:clk_divider_u|clk_buf'
+Slack : 0.111
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : 0.945
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : -2.068
+TNS   : -2.068
+
+Type  : Fast 1200mV 0C Model Recovery 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : -1.659
+TNS   : -1.659
+
+Type  : Fast 1200mV 0C Model Removal 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : 1.409
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -183.858
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_divider:clk_divider_u|clk_buf'
+Slack : -1.000
+TNS   : -446.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'io:io_u|i2c_master_container:I2C1|i2c_master:i2c_master_module|data_clk'
+Slack : -1.000
+TNS   : -48.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|branch'
+Slack : -1.000
+TNS   : -9.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|branch_controller:branch_controller_u|clk_r[1]'
+Slack : 0.085
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|if_id_pipe_reg:if_id_pipe_reg_u|instruction_buffer[0]'
+Slack : 0.222
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu_pipelined:cpu_pipelined_u|id_ex_pipe_reg:id_ex_pipe_reg_u|ex_control_buffer[0]'
+Slack : 0.439
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,181 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/kaung/OneDrive/Documents/Auston/Project/RISC-V RV32E Micro/peripherals/i2c
+Ei2c_master
+Z0 w1687619372
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dA:/Project/RISC-V RV32E Micro/peripherals/i2c
+Z6 8A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master.vhd
+Z7 FA:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master.vhd
+l0
+L5
+VHoLLWaI79[?`kQj`[i4_g2
+!s100 G^;l]fkk]h73j3B[FBU2J2
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1687619382
+!i10b 1
+Z10 !s108 1687619382.000000
+Z11 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master.vhd|
+Z12 !s107 A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master.vhd|
+!i113 1
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Alogic
+R1
+R2
+R3
+R4
+DEx4 work 10 i2c_master 0 22 HoLLWaI79[?`kQj`[i4_g2
+l38
+L24
+V<VPTSZKY0LK]>>OHC5L?_0
+!s100 n_JdE2Dc;zX>;3N[cG9N:1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ei2c_master_container
+Z15 w1687619375
+Z16 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z17 8A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master_container.vhd
+Z18 FA:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master_container.vhd
+l0
+L5
+V1nP:ieGYJY3[8VEEM`a2A2
+!s100 Z;@X=oX4SzcLmDKnA^i630
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master_container.vhd|
+Z20 !s107 A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_master_container.vhd|
+!i113 1
+R13
+R14
+Aarch
+R16
+R3
+R4
+Z21 DEx4 work 20 i2c_master_container 0 22 1nP:ieGYJY3[8VEEM`a2A2
+l59
+L35
+Z22 VMlckf]kV4d0eFD=:ISiVK2
+Z23 !s100 ieYi0k0SZYZHXOiOP72lb0
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Ei2c_minion
+Z24 w1684671222
+Z25 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R3
+Z26 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 106
+R5
+Z27 8A:/Project/RISC-V RV32E Micro/peripherals/i2c/I2C_minion.vhd
+Z28 FA:/Project/RISC-V RV32E Micro/peripherals/i2c/I2C_minion.vhd
+l0
+L12 1
+VmUf?j32FZDoi5jQ5V[?eo2
+!s100 Ta=^ld8_Kf8`4F1VM>B;_0
+Z29 OV;C;2020.1;71
+32
+Z30 !s110 1684671234
+!i10b 1
+Z31 !s108 1684671234.000000
+Z32 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/i2c/I2C_minion.vhd|
+Z33 !s107 A:/Project/RISC-V RV32E Micro/peripherals/i2c/I2C_minion.vhd|
+!i113 1
+R13
+R14
+Aarch
+R25
+R3
+R26
+DEx4 work 10 i2c_minion 0 22 mUf?j32FZDoi5jQ5V[?eo2
+!i122 106
+l73
+L28 269
+VcSdXdX0]VL5NfDKU]jmhW1
+!s100 5LzPXcHhJBKRk[ehQ>9oX2
+R29
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R13
+R14
+Ei2c_test
+Z34 w1684671227
+R25
+R3
+R26
+!i122 107
+R5
+Z35 8A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_test.vhd
+Z36 FA:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_test.vhd
+l0
+L5 1
+V<3mZJ7lQCA8hbCT^^OMDl1
+!s100 a]S0blf0RgGBG?Ho6YPgX1
+R29
+32
+R30
+!i10b 1
+R31
+Z37 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_test.vhd|
+Z38 !s107 A:/Project/RISC-V RV32E Micro/peripherals/i2c/i2c_test.vhd|
+!i113 1
+R13
+R14
+Atb
+R25
+R3
+R26
+DEx4 work 8 i2c_test 0 22 <3mZJ7lQCA8hbCT^^OMDl1
+!i122 107
+l199
+L8 270
+V]L`]Nj`5V]`MV17@=maNj0
+!s100 U^OP?`Q?R_7=nUlDM>izB3
+R29
+32
+R30
+!i10b 1
+R31
+R37
+R38
+!i113 1
+R13
+R14

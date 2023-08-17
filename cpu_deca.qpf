@@ -1,0 +1,6 @@
+DATE = "22:11:03 August 13, 2023"
+QUARTUS_VERSION = "14.1"
+
+# Revisions
+
+PROJECT_REVISION = "cpu_deca"

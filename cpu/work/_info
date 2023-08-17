@@ -1,0 +1,1685 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Polar/risc-v-micro-master/risc-v-micro-master/cpu
+Eadder
+Z0 w1689741191
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 d/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu
+Z5 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/adder.vhd
+Z6 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/adder.vhd
+l0
+L5
+VKf>eFz=a<GBoo3YngegD93
+!s100 zV4HI2j7glRZJ1W]7Febo0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1691832925
+!i10b 1
+Z9 !s108 1691832925.000000
+Z10 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/adder.vhd|
+Z11 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/adder.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 Kf>eFz=a<GBoo3YngegD93
+l32
+L19
+VZm8RoXeOY>HoUl44FI>L20
+!s100 `Klc`fD5bVh5@O2CV?Hkg3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eaddress_decoder
+Z14 w1689046296
+Z15 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R1
+R2
+R3
+R4
+Z16 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/address_decoder.vhd
+Z17 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/address_decoder.vhd
+l0
+L6
+VmEgG@GBTlCkC<84f]hU<E3
+!s100 O1<[k]bLV[2zLQWbRzJ<a2
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/address_decoder.vhd|
+Z19 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/address_decoder.vhd|
+!i113 1
+R12
+R13
+Artl
+R15
+R1
+R2
+R3
+DEx4 work 15 address_decoder 0 22 mEgG@GBTlCkC<84f]hU<E3
+l18
+L16
+VD2hla[Q6n4WC_EkC8`YGU1
+!s100 k<1Z=419_E^?Z^mMileN[0
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Ealu
+Z20 w1689156175
+Z21 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z22 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+R1
+R2
+R3
+R4
+Z23 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu.vhd
+Z24 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu.vhd
+l0
+L6
+V^8EefM6aaLCmefWzbNZG?3
+!s100 RB2F1PolfZ8_86W<eCVod1
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu.vhd|
+Z26 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu.vhd|
+!i113 1
+R12
+R13
+Aarch
+R21
+R22
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 ^8EefM6aaLCmefWzbNZG?3
+l55
+L26
+VS>2BgNISG?5MG?APMd@lW2
+!s100 27z0fJCo;8@e0UO<TOUY@2
+R7
+32
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 1
+R12
+R13
+Ealu_controller
+Z27 w1689155643
+R1
+R2
+R3
+R4
+Z28 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu_controller.vhd
+Z29 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu_controller.vhd
+l0
+L5
+VH=@I5J80zJmSSh8>j<5I_2
+!s100 58]LgkPAjlh:LBZXDOzec2
+R7
+32
+R8
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu_controller.vhd|
+Z31 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/alu_controller.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 14 alu_controller 0 22 H=@I5J80zJmSSh8>j<5I_2
+l17
+L15
+V>O>J9Q4Yn2cR9n=B3O?iQ2
+!s100 CBMoW;7C]2i=4MJ=H9ZA>1
+R7
+32
+R8
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+R13
+Ebranch_calculator
+Z32 w1689582034
+R1
+R2
+R3
+R4
+Z33 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_calculator.vhd
+Z34 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_calculator.vhd
+l0
+L5
+VYCWfJd0U=G:4m=[NTNg;=1
+!s100 _7lTz:8@SWSG7Ka?n2^]O3
+R7
+32
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_calculator.vhd|
+Z36 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_calculator.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 17 branch_calculator 0 22 YCWfJd0U=G:4m=[NTNg;=1
+l34
+L18
+VZ1eM_gWkd;il>_[o<3WA^2
+!s100 iU:Q1=g19K9[:V1;3?O_f1
+R7
+32
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Ebranch_controller
+Z37 w1691217168
+R1
+R2
+R3
+R4
+Z38 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_controller.vhd
+Z39 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_controller.vhd
+l0
+L5
+VKhSdOdZL=i4MS[G6z72bz1
+!s100 ie_z7C`cHA?GA=NF[32^R2
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_controller.vhd|
+Z41 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/branch_controller.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 17 branch_controller 0 22 KhSdOdZL=i4MS[G6z72bz1
+l21
+L19
+Vn_UPafb<A>V3NmQg3cMma2
+!s100 j[=Ba3>1ZN:hg67`XGWYz0
+R7
+32
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Econtrol_unit
+Z42 w1689584209
+R1
+R2
+R3
+R4
+Z43 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/control_unit.vhd
+Z44 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/control_unit.vhd
+l0
+L5
+VNYI966;TTH0bAMV<@`l>Y0
+!s100 mllEfCVbnfG7??U3@IlmG3
+R7
+32
+R8
+!i10b 1
+R9
+Z45 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/control_unit.vhd|
+Z46 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/control_unit.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 12 control_unit 0 22 NYI966;TTH0bAMV<@`l>Y0
+l18
+L16
+VT0khA[7O;0g`1@R_XV`Ij1
+!s100 @4Eaf;Oj7WA`P2j0ahB^b1
+R7
+32
+R8
+!i10b 1
+R9
+R45
+R46
+!i113 1
+R12
+R13
+Ecpu
+Z47 w1689240548
+R1
+R2
+R3
+R4
+Z48 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu.vhd
+Z49 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu.vhd
+l0
+L5
+V;]QElUKdjKz[_f>[[hEA<2
+!s100 dGFEYSh?aQ9@IdNhJ6GX=2
+R7
+32
+Z50 !s110 1691481429
+!i10b 1
+Z51 !s108 1691481429.000000
+Z52 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu.vhd|
+Z53 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z54 DEx4 work 3 cpu 0 22 ;]QElUKdjKz[_f>[[hEA<2
+l185
+L15
+Vg^]3N[f4TlH30<VJEzmkf1
+!s100 lh1LVh_`5YMj2DRYP16j_3
+R7
+32
+R50
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R12
+R13
+Ecpu_pipelined
+Z55 w1691830365
+R1
+R2
+R3
+R4
+Z56 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined.vhd
+Z57 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined.vhd
+l0
+L5
+VEETzZz19Z>R`n0MCd<SGA1
+!s100 o5VRc`ohXoZ6z;Ne6@2NZ2
+R7
+32
+R8
+!i10b 1
+R9
+Z58 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined.vhd|
+Z59 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 13 cpu_pipelined 0 22 EETzZz19Z>R`n0MCd<SGA1
+l399
+L40
+V]5SYA?c:CBbdY9HQM5iSh2
+!s100 AbT6_iU[dbCi9o5AcT7l?0
+R7
+32
+R8
+!i10b 1
+R9
+R58
+R59
+!i113 1
+R12
+R13
+Ecpu_pipelined_tb
+Z60 w1691313348
+R1
+R2
+R3
+R4
+Z61 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined_tb.vhd
+Z62 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined_tb.vhd
+l0
+L5
+VazYd@8RC=An;K8EF0acD]1
+!s100 2LVSTBO6bSX43:4_FFZ4C2
+R7
+32
+R50
+!i10b 1
+R51
+Z63 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined_tb.vhd|
+Z64 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_pipelined_tb.vhd|
+!i113 1
+R12
+R13
+Asim
+DEx4 work 13 cpu_pipelined 0 22 bfT[h@d3dQ0Sm:38mLL<71
+R1
+R2
+R3
+DEx4 work 16 cpu_pipelined_tb 0 22 azYd@8RC=An;K8EF0acD]1
+l72
+L8
+Vzkk<SUeCUooRQLGLVXUhd2
+!s100 CUN7::Hee2:zZ67LSWlCV0
+R7
+32
+R50
+!i10b 1
+R51
+R63
+R64
+!i113 1
+R12
+R13
+Ecpu_tb
+Z65 w1689241504
+R1
+R2
+R3
+R4
+Z66 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_tb.vhd
+Z67 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_tb.vhd
+l0
+L5
+VF;3O?lLiVVkK:@=RYNASf0
+!s100 ^RDZRzN_cme?[;=@6]@^S0
+R7
+32
+R50
+!i10b 1
+R51
+Z68 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_tb.vhd|
+Z69 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/cpu_tb.vhd|
+!i113 1
+R12
+R13
+Asim
+R54
+R1
+R2
+R3
+DEx4 work 6 cpu_tb 0 22 F;3O?lLiVVkK:@=RYNASf0
+l27
+L8
+VWQ[4;P:<9j=z5NNRmA2>H2
+!s100 eLQ]V5cKGHUDEHNAADRSl3
+R7
+32
+R50
+!i10b 1
+R51
+R68
+R69
+!i113 1
+R12
+R13
+Edata_memory
+Z70 w1691832388
+R1
+R2
+R3
+R4
+Z71 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/data_memory.vhd
+Z72 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/data_memory.vhd
+l0
+L5
+VeEDCbGg6gAdbECHW8R^TL3
+!s100 F;45f4AX]MRm@b`X`J0:Z1
+R7
+32
+R8
+!i10b 1
+R9
+Z73 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/data_memory.vhd|
+Z74 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/data_memory.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 11 data_memory 0 22 eEDCbGg6gAdbECHW8R^TL3
+l80
+L51
+VdG;^F:6a]aaAWU6mFm;1M2
+!s100 9W[HbP`i[<LnFXXZek0=b3
+R7
+32
+R8
+!i10b 1
+R9
+R73
+R74
+!i113 1
+R12
+R13
+Eex_mem_pipe_reg
+Z75 w1689576331
+R1
+R2
+R3
+R4
+Z76 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/ex_mem_pipe_reg.vhd
+Z77 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/ex_mem_pipe_reg.vhd
+l0
+L5
+V?GCab[cO0;L9dA1NO<2R72
+!s100 dAdfhjO6cEMECmRP@X15R0
+R7
+32
+R8
+!i10b 1
+R9
+Z78 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/ex_mem_pipe_reg.vhd|
+Z79 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/ex_mem_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 15 ex_mem_pipe_reg 0 22 ?GCab[cO0;L9dA1NO<2R72
+l43
+L34
+VHd1G6FDV>JG6BQQKX<zNQ1
+!s100 D6ePORbH^i[dckOZj`9N51
+R7
+32
+R8
+!i10b 1
+R9
+R78
+R79
+!i113 1
+R12
+R13
+Eforwarding_unit
+Z80 w1691312909
+R1
+R2
+R3
+R4
+Z81 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit.vhd
+Z82 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit.vhd
+l0
+L5
+VZHAJU`>Gk93P@AE2[0Q;=2
+!s100 FV8`nJOIiC`NOI8mgmN1P3
+R7
+32
+R8
+!i10b 1
+R9
+Z83 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit.vhd|
+Z84 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 15 forwarding_unit 0 22 ZHAJU`>Gk93P@AE2[0Q;=2
+l16
+L15
+VDzz8gzX[zmDLfzUA10_GL0
+!s100 =4Z6DPg8Z;;cz5KdBS[a30
+R7
+32
+R8
+!i10b 1
+R9
+R83
+R84
+!i113 1
+R12
+R13
+Eforwarding_unit_branch
+Z85 w1691298688
+R1
+R2
+R3
+R4
+Z86 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit_branch.vhd
+Z87 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit_branch.vhd
+l0
+L5
+VM9oJUU_@n>7Ec5SS2^FT92
+!s100 7j9A0giXbBF`LC;bn5SG?1
+R7
+32
+R8
+!i10b 1
+R9
+Z88 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit_branch.vhd|
+Z89 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/forwarding_unit_branch.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 22 forwarding_unit_branch 0 22 M9oJUU_@n>7Ec5SS2^FT92
+l16
+L15
+VZCnoYFHcCFcU85FfAM<`h1
+!s100 ?lCgZzh4K7jmXToKTelSc2
+R7
+32
+R8
+!i10b 1
+R9
+R88
+R89
+!i113 1
+R12
+R13
+Efull_adder
+Z90 w1688107372
+R1
+R2
+R3
+R4
+Z91 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/full_adder.vhd
+Z92 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/full_adder.vhd
+l0
+L5
+VT72HMo>WmV:eO2?ZdYLJG3
+!s100 6n3=^a>[9G?hbUE?cWjSG3
+R7
+32
+R8
+!i10b 1
+Z93 !s108 1691832924.000000
+Z94 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/full_adder.vhd|
+Z95 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/full_adder.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 10 full_adder 0 22 T72HMo>WmV:eO2?ZdYLJG3
+l25
+L15
+VLe_?<X@h[1iP:A3F4gW>03
+!s100 0dz2nZ74G@FCdz7OaGe233
+R7
+32
+R8
+!i10b 1
+R93
+R94
+R95
+!i113 1
+R12
+R13
+Ehalf_adder
+R90
+R1
+R2
+R3
+R4
+Z96 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/half_adder.vhd
+Z97 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/half_adder.vhd
+l0
+L5
+VNaXA@m2[J5o2_WfbgRa<D0
+!s100 f=QldB?kKBdX<g]bW<T`K3
+R7
+32
+Z98 !s110 1691832924
+!i10b 1
+R93
+Z99 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/half_adder.vhd|
+Z100 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/half_adder.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 10 half_adder 0 22 NaXA@m2[J5o2_WfbgRa<D0
+l16
+L14
+VO`0Ne1GPM]NlgoRZ5I>1G3
+!s100 JX]LjVK0i@0lG@SENF^h?2
+R7
+32
+R98
+!i10b 1
+R93
+R99
+R100
+!i113 1
+R12
+R13
+Ehazard_detection
+Z101 w1689582723
+R1
+R2
+R3
+R4
+Z102 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/hazard_detection.vhd
+Z103 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/hazard_detection.vhd
+l0
+L5
+ViSo7G6WNYY^eK^LT0bPFC3
+!s100 ZCWbQELd;SMHE;?eLcV9>0
+R7
+32
+R8
+!i10b 1
+R9
+Z104 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/hazard_detection.vhd|
+Z105 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/hazard_detection.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 16 hazard_detection 0 22 iSo7G6WNYY^eK^LT0bPFC3
+l17
+L15
+V<oD^;FPNA]zieQn^ClKof0
+!s100 9FABHnLFhIi=agJKc>E6:1
+R7
+32
+R8
+!i10b 1
+R9
+R104
+R105
+!i113 1
+R12
+R13
+Ei2c_master
+R90
+Z106 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z107 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+R4
+Z108 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master.vhd
+Z109 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master.vhd
+l0
+L5
+VHoLLWaI79[?`kQj`[i4_g2
+!s100 G^;l]fkk]h73j3B[FBU2J2
+R7
+32
+Z110 !s110 1691832926
+!i10b 1
+Z111 !s108 1691832926.000000
+Z112 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master.vhd|
+Z113 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master.vhd|
+!i113 1
+R12
+R13
+Alogic
+R106
+R107
+R2
+R3
+DEx4 work 10 i2c_master 0 22 HoLLWaI79[?`kQj`[i4_g2
+l38
+L24
+V<VPTSZKY0LK]>>OHC5L?_0
+!s100 n_JdE2Dc;zX>;3N[cG9N:1
+R7
+32
+R110
+!i10b 1
+R111
+R112
+R113
+!i113 1
+R12
+R13
+Ei2c_master_container
+Z114 w1691826697
+R1
+R2
+R3
+R4
+Z115 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master_container.vhd
+Z116 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master_container.vhd
+l0
+L5
+VzBVzJ7a_VR]i8Qibd0DOo3
+!s100 D<dE::[NH2cBTNk[WfJMO1
+R7
+32
+R110
+!i10b 1
+R111
+Z117 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master_container.vhd|
+Z118 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/i2c/i2c_master_container.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 20 i2c_master_container 0 22 zBVzJ7a_VR]i8Qibd0DOo3
+l60
+L36
+V=VY6Ln`zRS_BbO0mi>P;=2
+!s100 9e:JEFeTgNH2U1UT`d`Dm3
+R7
+32
+R110
+!i10b 1
+R111
+R117
+R118
+!i113 1
+R12
+R13
+Eid_ex_pipe_reg
+Z119 w1689741538
+R1
+R2
+R3
+R4
+Z120 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/id_ex_pipe_reg.vhd
+Z121 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/id_ex_pipe_reg.vhd
+l0
+L5
+VT^Ok=jYdZl0Bj`NlHa:ln1
+!s100 >d@T8EY=VA^jY?`>AGW2n3
+R7
+32
+R8
+!i10b 1
+R9
+Z122 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/id_ex_pipe_reg.vhd|
+Z123 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/id_ex_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 14 id_ex_pipe_reg 0 22 T^Ok=jYdZl0Bj`NlHa:ln1
+l50
+L39
+VZX7W^o@CR[Z4T>@ifO_JX0
+!s100 Idb4o@i9j<fZGO?dXjF170
+R7
+32
+R8
+!i10b 1
+R9
+R122
+R123
+!i113 1
+R12
+R13
+Eif_id_pipe_reg
+Z124 w1689583556
+R1
+R2
+R3
+R4
+Z125 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/if_id_pipe_reg.vhd
+Z126 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/if_id_pipe_reg.vhd
+l0
+L5
+VmUO39R5C4DN02D=:]`L2Q1
+!s100 ;0T0YJoX_3GddBHT2eZJz3
+R7
+32
+R8
+!i10b 1
+R9
+Z127 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/if_id_pipe_reg.vhd|
+Z128 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/if_id_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 14 if_id_pipe_reg 0 22 mUO39R5C4DN02D=:]`L2Q1
+l26
+L24
+VKG9KVGBggF`V?14DCUM9X2
+!s100 jW?<B`B]]U?kW7ilE>UjH0
+R7
+32
+R8
+!i10b 1
+R9
+R127
+R128
+!i113 1
+R12
+R13
+Eimmediate_generator
+Z129 w1689240179
+R1
+R2
+R3
+R4
+Z130 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/immediate_generator.vhd
+Z131 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/immediate_generator.vhd
+l0
+L5
+VKm<`TIYRG;56Q8GD:7AQ33
+!s100 c9WMKdTAZk1[S2V0^Nm2W2
+R7
+32
+R8
+!i10b 1
+R9
+Z132 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/immediate_generator.vhd|
+Z133 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/immediate_generator.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 19 immediate_generator 0 22 Km<`TIYRG;56Q8GD:7AQ33
+l21
+L15
+ViFiF^jbo>0YC7B1d[AcJ=3
+!s100 ]VTZ20Zj9dED^]V8?DH720
+R7
+32
+R8
+!i10b 1
+R9
+R132
+R133
+!i113 1
+R12
+R13
+Einstruction_memory
+Z134 w1691832908
+R15
+R1
+R2
+R3
+R4
+Z135 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/instruction_memory.vhd
+Z136 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/instruction_memory.vhd
+l0
+L6
+VZogJCfYk;:`EnRl:E<ZdQ1
+!s100 lO2cb7A1k[?;O[<mmeK^M2
+R7
+32
+R8
+!i10b 1
+R9
+Z137 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/instruction_memory.vhd|
+Z138 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/instruction_memory.vhd|
+!i113 1
+R12
+R13
+Artl
+R15
+R1
+R2
+R3
+DEx4 work 18 instruction_memory 0 22 ZogJCfYk;:`EnRl:E<ZdQ1
+l41
+L23
+VLS56<^oJm_aGSijjHd7aH1
+!s100 mY@>fhfD3DD^IOYW?JIAm2
+R7
+32
+R8
+!i10b 1
+R9
+R137
+R138
+!i113 1
+R12
+R13
+Eio
+Z139 w1691826741
+R1
+R2
+R3
+R4
+Z140 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/io.vhd
+Z141 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/io.vhd
+l0
+L5
+Vi2;2>JaIzOC1YzgVDaCSW1
+!s100 EP>B_P4BBG<iLHFncadhU1
+R7
+32
+R110
+!i10b 1
+R111
+Z142 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/io.vhd|
+Z143 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/io.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 2 io 0 22 i2;2>JaIzOC1YzgVDaCSW1
+l161
+L49
+VlJHgLgW^_`2lj[gej^:>F2
+!s100 ]8cEeKCPX5^:fmMAOc08H3
+R7
+32
+R110
+!i10b 1
+R111
+R142
+R143
+!i113 1
+R12
+R13
+Eiopin
+Z144 w1691830446
+R1
+R2
+R3
+R4
+Z145 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/iopin.vhd
+Z146 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/iopin.vhd
+l0
+L5
+VnIIkmSn:mfcH7zYb51gDK0
+!s100 __OH?>flRfm^LMJccR>>H0
+R7
+32
+R110
+!i10b 1
+R111
+Z147 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/iopin.vhd|
+Z148 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/io/iopin.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 5 iopin 0 22 nIIkmSn:mfcH7zYb51gDK0
+l23
+L21
+VN6YIE<0k6Z4c>f[X0m6fX0
+!s100 ;jGA@E@UcdhhA<lUQK5NZ1
+R7
+32
+R110
+!i10b 1
+R111
+R147
+R148
+!i113 1
+R12
+R13
+Emem_wb_pipe_reg
+Z149 w1689577080
+R1
+R2
+R3
+R4
+Z150 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/mem_wb_pipe_reg.vhd
+Z151 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/mem_wb_pipe_reg.vhd
+l0
+L5
+VaH><EJ`=]JYi;cY6B]9M02
+!s100 ]SUFl8XA^bWo6;>7hgnl03
+R7
+32
+R8
+!i10b 1
+R9
+Z152 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/mem_wb_pipe_reg.vhd|
+Z153 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/mem_wb_pipe_reg.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 15 mem_wb_pipe_reg 0 22 aH><EJ`=]JYi;cY6B]9M02
+l34
+L29
+V_COXf`DPd1f[A9SLE3G>P0
+!s100 RF;5YE6oX<DXTT]P4]<[>3
+R7
+32
+R8
+!i10b 1
+R9
+R152
+R153
+!i113 1
+R12
+R13
+Emicrocontroller
+Z154 w1691830220
+R1
+R2
+R3
+R4
+Z155 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller.vhd
+Z156 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller.vhd
+l0
+L5
+VM5KF6;lV6A;fbLgb5O>IZ3
+!s100 z^]ELkY9j8_Z8MD_^e0VZ3
+R7
+32
+R110
+!i10b 1
+R111
+Z157 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller.vhd|
+Z158 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 15 microcontroller 0 22 M5KF6;lV6A;fbLgb5O>IZ3
+l100
+L14
+ViA<Ck<h7hC4GB4@Tz>D@B3
+!s100 BmXkTYi@oZ?F]GgnQYXlB1
+R7
+32
+R110
+!i10b 1
+R111
+R157
+R158
+!i113 1
+R12
+R13
+Emicrocontroller_tb
+Z159 w1691828034
+R1
+R2
+R3
+R4
+Z160 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller_tb.vhd
+Z161 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller_tb.vhd
+l0
+L5
+VF=mQlX^;n?dZgEHPUZmi`3
+!s100 lB3GIgQF9WeJiE^ef;9Ti0
+R7
+32
+R110
+!i10b 1
+R111
+Z162 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller_tb.vhd|
+Z163 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/microcontroller_tb.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 18 microcontroller_tb 0 22 F=mQlX^;n?dZgEHPUZmi`3
+l27
+L8
+ViL;Oh^8n0NDzFG5G0m^nH2
+!s100 O9Q8ba[P2_`>U?0;B[ZSL3
+R7
+32
+R110
+!i10b 1
+R111
+R162
+R163
+!i113 1
+R12
+R13
+Emultiplier
+R90
+R1
+R2
+R3
+R4
+Z164 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/multiplier.vhd
+Z165 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/multiplier.vhd
+l0
+L5
+VK<JnR6kmReH49LgYHm7k70
+!s100 iY^WR0PMzIHkD[1EJ8HFD0
+R7
+32
+Z166 !s110 1691045582
+!i10b 1
+Z167 !s108 1691045582.000000
+Z168 !s90 -reportprogress|30|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/multiplier.vhd|
+Z169 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/multiplier.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 10 multiplier 0 22 K<JnR6kmReH49LgYHm7k70
+l40
+L16
+V[IZmV?6c?acXQa[Y0MW8R0
+!s100 4S@4RBJ>J32a@DZe:81li1
+R7
+32
+R166
+!i10b 1
+R167
+R168
+R169
+!i113 1
+R12
+R13
+Eone_bit_alu
+R90
+R1
+R2
+R3
+R4
+Z170 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/one_bit_alu.vhd
+Z171 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/one_bit_alu.vhd
+l0
+L5
+VzOizTM;nZf7Eii?SOW2^T3
+!s100 46ezP=S`d>c7dz0KKJio23
+R7
+32
+R8
+!i10b 1
+R9
+Z172 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/one_bit_alu.vhd|
+Z173 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/one_bit_alu.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 11 one_bit_alu 0 22 zOizTM;nZf7Eii?SOW2^T3
+l39
+L26
+VU3hM4XDX^fcVA38_NLlRc1
+!s100 cVhPZhJ;Z2bN@oMA1URoj3
+R7
+32
+R8
+!i10b 1
+R9
+R172
+R173
+!i113 1
+R12
+R13
+Epc
+Z174 w1692035132
+R1
+R2
+R3
+Z175 d/home/polar/Documents/liverpool_project/cpu_deca/cpu
+Z176 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd
+Z177 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd
+l0
+L5
+Vh4IE7YmKTKVR;dJC]cO;l2
+!s100 Xen:AF[dlc2;HX_foZQ_90
+R7
+32
+Z178 !s110 1692035189
+!i10b 1
+Z179 !s108 1692035189.000000
+Z180 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd|
+Z181 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/pc.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 2 pc 0 22 h4IE7YmKTKVR;dJC]cO;l2
+l28
+L24
+Ve;gbhH:JF5PMOFY1[EjJ81
+!s100 A0Ub]Snfj[HF0I9]S6FO@3
+R7
+32
+R178
+!i10b 1
+R179
+R180
+R181
+!i113 1
+R12
+R13
+Epc_container
+Z182 w1692010935
+R1
+R2
+R3
+R175
+Z183 8/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd
+Z184 F/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd
+l0
+L5
+V4@OkPnBIzk?C5bPFKc56D0
+!s100 dMW=UKGOzNL^S0n4gYbU60
+R7
+32
+R178
+!i10b 1
+R179
+Z185 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd|
+Z186 !s107 /home/polar/Documents/liverpool_project/cpu_deca/cpu/pc_container.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 12 pc_container 0 22 4@OkPnBIzk?C5bPFKc56D0
+l67
+L31
+VlbJM?E:V9<?aKj:3AVnPe2
+!s100 UiYP>SfaXQLm0;3W@Ckij3
+R7
+32
+R178
+!i10b 1
+R179
+R185
+R186
+!i113 1
+R12
+R13
+Epc_container_tb
+w1688976538
+R1
+R2
+R3
+R4
+8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/pc_container_tb.vhd
+F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/pc_container_tb.vhd
+l0
+L6
+VR0FLnEk=@j>;L@ND3lI5k1
+!s100 TiDnUO0[k_O?i6beb6[K13
+R7
+32
+!s110 1691052307
+!i10b 1
+!s108 1691052307.000000
+!s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/pc_container_tb.vhd|
+!s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/pc_container_tb.vhd|
+!i113 1
+R12
+R13
+Eregister_file
+Z187 w1690963807
+R1
+R2
+R3
+R4
+Z188 8/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/register_file.vhd
+Z189 F/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/register_file.vhd
+l0
+L5
+VhNUIHHb:V`KEa6W;h7RVV3
+!s100 KDo<Lk[Y`;aQIc9NhQ=zA1
+R7
+32
+R8
+!i10b 1
+R9
+Z190 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/register_file.vhd|
+Z191 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/cpu/register_file.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 13 register_file 0 22 hNUIHHb:V`KEa6W;h7RVV3
+l34
+L31
+VBD6G33XQicOPjA;dmYH7_1
+!s100 G7Tf8E9e2A]k`MZ[?DQ;50
+R7
+32
+R8
+!i10b 1
+R9
+R190
+R191
+!i113 1
+R12
+R13
+Espi_master
+R90
+R1
+R2
+R3
+R4
+Z192 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master.vhd
+Z193 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master.vhd
+l0
+L37
+VN^[AmSnl2N7Z[f_PVMif73
+!s100 0F0<3ebl7z@L;0H5Ne<AR3
+R7
+32
+R8
+!i10b 1
+R9
+Z194 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master.vhd|
+Z195 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 10 spi_master 0 22 N^[AmSnl2N7Z[f_PVMif73
+l82
+L65
+VKSdD?f21;Y2YOBTWRikah2
+!s100 F2[P5?eN:eWGD?P8HX`N93
+R7
+32
+R8
+!i10b 1
+R9
+R194
+R195
+!i113 1
+R12
+R13
+Espi_master_container
+Z196 w1691826753
+R1
+R2
+R3
+R4
+Z197 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master_container.vhd
+Z198 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master_container.vhd
+l0
+L5
+VbY_Rk9mY16[[dQGfC]?8;3
+!s100 Kz@@SQ:^AGO@KezE>X?UX1
+R7
+32
+R110
+!i10b 1
+R9
+Z199 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master_container.vhd|
+Z200 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/spi/spi_master_container.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 20 spi_master_container 0 22 bY_Rk9mY16[[dQGfC]?8;3
+l69
+L35
+VjXN;X;;ZG;Ae?;EA2>e302
+!s100 B];UANCkcT[cLU?nGzD2O2
+R7
+32
+R110
+!i10b 1
+R9
+R199
+R200
+!i113 1
+R12
+R13
+Euart
+Z201 w1691816105
+R1
+R2
+R3
+R4
+Z202 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart.vhd
+Z203 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart.vhd
+l0
+L5
+VkaTLgKZE8d9X;6<0QHi790
+!s100 eg>Kb697`G=zdf0`KZdW;3
+R7
+32
+R8
+!i10b 1
+R9
+Z204 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart.vhd|
+Z205 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 4 uart 0 22 kaTLgKZE8d9X;6<0QHi790
+l59
+L33
+V=n_Ea>HNFAM3c9WB?S6Ie3
+!s100 ^Y_eC3obQ7^>kKO>nEfnN2
+R7
+32
+R8
+!i10b 1
+R9
+R204
+R205
+!i113 1
+R12
+R13
+Euart_container
+Z206 w1691826767
+R1
+R2
+R3
+R4
+Z207 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_container.vhd
+Z208 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_container.vhd
+l0
+L5
+VZm0mQIfbmIDbjnCBzC<e[2
+!s100 lI]N^mIP:E47C6PWDeWK[0
+R7
+32
+R8
+!i10b 1
+R9
+Z209 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_container.vhd|
+Z210 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_container.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 14 uart_container 0 22 Zm0mQIfbmIDbjnCBzC<e[2
+l65
+L31
+ViO78Bb[IU[5_8ClfS`NSE2
+!s100 :QOdFJ^G>]fMe6bAd=T4f1
+R7
+32
+R8
+!i10b 1
+R9
+R209
+R210
+!i113 1
+R12
+R13
+Euart_rx
+R90
+R1
+R2
+R3
+R4
+Z211 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_rx.vhd
+Z212 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_rx.vhd
+l0
+L5
+V3?fEeH5314lnYiFE2:nen3
+!s100 Ab:ag31DPzGR@WKa3IL9[2
+R7
+32
+R8
+!i10b 1
+R9
+Z213 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_rx.vhd|
+Z214 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_rx.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 7 uart_rx 0 22 3?fEeH5314lnYiFE2:nen3
+l28
+L19
+VCSakOl7I]Jc0igK@lVX9Z3
+!s100 5j4lUZ^[fB[74]5K;CCg53
+R7
+32
+R8
+!i10b 1
+R9
+R213
+R214
+!i113 1
+R12
+R13
+Euart_tx
+R90
+R1
+R2
+R3
+R4
+Z215 8/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_tx.vhd
+Z216 F/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_tx.vhd
+l0
+L5
+VS;[[I;Y4QcJLLS`9KgiYW0
+!s100 @4=6PPkbfPBOBU1[fKZC[3
+R7
+32
+R8
+!i10b 1
+R9
+Z217 !s90 -reportprogress|300|-work|work|/home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_tx.vhd|
+Z218 !s107 /home/polar/Documents/liverpool_project/risc-v-micro-master/peripherals/uart/uart_tx.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 7 uart_tx 0 22 S;[[I;Y4QcJLLS`9KgiYW0
+l27
+L16
+V8?=0iQFR2_=QdgZVm2ZE61
+!s100 _IDj_keTBGl`jIb=gmBz02
+R7
+32
+R8
+!i10b 1
+R9
+R217
+R218
+!i113 1
+R12
+R13

@@ -1,0 +1,141 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[7]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[0]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[1]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[2]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[3]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[4]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[5]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[6]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[7]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[8]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[9]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[10]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[11]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[12]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[13]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[14]",
+					"strict" : false
+				},
+				{
+					"name" : "general_io[15]",
+					"strict" : false
+				},
+				{
+					"name" : "special_io[0]",
+					"strict" : false
+				},
+				{
+					"name" : "special_io[1]",
+					"strict" : false
+				},
+				{
+					"name" : "special_io[2]",
+					"strict" : false
+				},
+				{
+					"name" : "special_io[3]",
+					"strict" : false
+				},
+				{
+					"name" : "special_io[4]",
+					"strict" : false
+				},
+				{
+					"name" : "special_io[5]",
+					"strict" : false
+				},
+				{
+					"name" : "special_io[6]",
+					"strict" : false
+				},
+				{
+					"name" : "MAX10_CLK1_50",
+					"strict" : false
+				},
+				{
+					"name" : "SW[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

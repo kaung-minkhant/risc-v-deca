@@ -1,0 +1,57 @@
+pc_container_tb
+-pc_container
+    - pc
+    - adder
+        - full_adder
+            - half_adder
+
+cpu_tb
+- cpu
+    - pc_container
+        - pc
+        - adder
+            - full_adder
+                - half_adder
+    - instruction_memory
+        - address_decoder
+    - register_file
+    - alu
+        - one_bit_alu
+            - full_adder
+                - half_adder
+    - immediate_generator
+    - data_memory
+    - alu_controller
+    - control_unit
+    - branch_controller
+    - branch_calculator
+        - adder
+
+
+- cpu_pipelined
+    - pc_container
+        - pc
+        - adder
+            - full_adder
+                - half_adder
+    - instruction_memory
+        - address_decoder
+    - register_file
+    - alu
+        - one_bit_alu
+            - full_adder
+                - half_adder
+    - immediate_generator
+    - data_memory
+    - alu_controller
+    - control_unit
+    - branch_controller
+    - branch_calculator
+        - adder
+    - if_id_pipe_reg
+    - id_ex_pipe_reg
+    - ex_mem_pipe_reg
+    - mem_wb_pipe_reg
+    - forwarding_unit
+    - hazard_dectection
+    - forwarding_unit_branch

@@ -1,0 +1,174 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dA:/Project/RISC-V RV32E Micro/peripherals/spi
+Espi_master
+Z1 w1687610537
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master.vhd
+Z6 FA:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master.vhd
+l0
+L37
+VN^[AmSnl2N7Z[f_PVMif73
+!s100 0F0<3ebl7z@L;0H5Ne<AR3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1687610864
+!i10b 1
+Z9 !s108 1687610864.000000
+Z10 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master.vhd|
+Z11 !s107 A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 10 spi_master 0 22 N^[AmSnl2N7Z[f_PVMif73
+l82
+L65
+VKSdD?f21;Y2YOBTWRikah2
+!s100 F2[P5?eN:eWGD?P8HX`N93
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Espi_master_container
+Z14 w1687610855
+R2
+R3
+R4
+R0
+Z15 8A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master_container.vhd
+Z16 FA:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master_container.vhd
+l0
+L5
+V8Ql@f7zTT5NfNINC`LGUf0
+!s100 Tn]QP6[VEb9RPAz5;[n6n0
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master_container.vhd|
+Z18 !s107 A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_master_container.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 20 spi_master_container 0 22 8Ql@f7zTT5NfNINC`LGUf0
+l68
+L34
+Z19 V_IJV?BPF0890De_fkfNW<1
+Z20 !s100 d4UAj7<aRz[ehDBXgQBK53
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Espi_slave
+Z21 w1684750359
+Z22 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R3
+R4
+R0
+Z23 8A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_slave.vhd
+Z24 FA:/Project/RISC-V RV32E Micro/peripherals/spi/spi_slave.vhd
+l0
+L5
+VZ8[BEHi7>`1zOgDD5j9Sk3
+!s100 kzO:25L4Af7`463F?;INR3
+R7
+32
+Z25 !s110 1685336944
+!i10b 1
+Z26 !s108 1685336944.000000
+Z27 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_slave.vhd|
+Z28 !s107 A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_slave.vhd|
+!i113 1
+R12
+R13
+Artl
+R22
+R3
+R4
+DEx4 work 9 spi_slave 0 22 Z8[BEHi7>`1zOgDD5j9Sk3
+l23
+L18
+V<>903?Q:OA5lN3hmI=0Q[2
+!s100 WK0l@j;z04caF5Zm@aJOK3
+R7
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R12
+R13
+Espi_test
+Z29 w1685338665
+R2
+R3
+R4
+R0
+Z30 8A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_test.vhd
+Z31 FA:/Project/RISC-V RV32E Micro/peripherals/spi/spi_test.vhd
+l0
+L8
+VOAWG?El=z6ae>bT78Z0B42
+!s100 h^h3aLD4OX?9L<l:0Ff=a3
+R7
+32
+Z32 !s110 1685338671
+!i10b 1
+Z33 !s108 1685338671.000000
+Z34 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_test.vhd|
+Z35 !s107 A:/Project/RISC-V RV32E Micro/peripherals/spi/spi_test.vhd|
+!i113 1
+R12
+R13
+Atb
+R2
+R3
+R4
+DEx4 work 8 spi_test 0 22 OAWG?El=z6ae>bT78Z0B42
+l167
+L11
+V7i0o`cfceK0M1@Zzjlm;d0
+!s100 gfoI[T[JBa59:?FP;2]LN2
+R7
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R12
+R13

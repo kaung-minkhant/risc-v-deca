@@ -1,0 +1,7 @@
+Control Code    -   Operation
+00000           -   and
+00001           -   or
+00010           -   add
+00011           -   less
+01010           -   sub
+11000           -   nor
